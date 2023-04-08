@@ -2,7 +2,7 @@ import axios from "axios";
 import { localServ } from "./localServ";
 
 export const TOKEN_CYBERSOFT =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5Mb3AiOiJCb290Y2FtcCBTw6FuZyAwNCIsIkhldEhhblN0cmluZyI6IjIwLzAyLzIwMjMiLCJIZXRIYW5UaW1lIjoiMTY3Njg1MTIwMDAwMCIsIm5iZiI6MTY1NDEwMjgwMCwiZXhwIjoxNjc2OTk4ODAwfQ.QYLXMgjth5hQh9opZbNS7JEDPZGWA3o_95kR_VyLix8";
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5Mb3AiOiJOb2RlanMgMzEiLCJIZXRIYW5TdHJpbmciOiIxOC8xMS8yMDIzIiwiSGV0SGFuVGltZSI6IjE3MDAyNjU2MDAwMDAiLCJuYmYiOjE2ODI0NDIwMDAsImV4cCI6MTcwMDQxMzIwMH0.qs5wMfdK7arZh-8r1gEBUyzeSLVDowZOx833nTaSSgo";
 
 export const BASE_URL = "https://movienew.cybersoft.edu.vn";
 export const maNhom = "GP03";
